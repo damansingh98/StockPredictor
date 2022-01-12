@@ -2,4 +2,4 @@
 
 Concepts used: Lagrange Interpolation, Newtons Method and Cubic Spline Method.
 
-Technologies: Python, LaTeX and python APIs
+Technologies: Python 3, LaTeX and python APIs
